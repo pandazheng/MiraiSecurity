@@ -11,4 +11,7 @@ http://www.freebuf.com/sectool/130091.html
 
 http://www.tuicool.com/articles/qM7rMnb  
 
+https://h4ckth4tsh1t.com/index.php?u=/topic/18/ggsetup-a-mirai-botnet  
+
+
 
