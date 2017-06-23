@@ -29,6 +29,8 @@ https://superkieran.github.io/WooyunDrops/#!/drops/1138.Remaiten-%E4%B8%80%E4%B8
 # Honeypot
 www.nothink.org  
 
+http://www.iexplo1t.com/2016/05/Honeypot.html  
+
 
 
 
