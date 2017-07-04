@@ -36,5 +36,38 @@ https://github.com/paralax/awesome-honeypots
 https://check-host.net  
 
 
+# 固件分析相关文章
+安防IP Camera固件分析
+http://www.bugsec.org/3749.html
+
+事件跟踪：贝尔金路由器（Belkin router）0day溢出漏洞分析
+http://www.bugsec.org/6983.html  
+
+Part 1: Hacking HI3518 based IP camera
+https://felipe.astroza.cl/hacking-hi3518-based-ip-camera/?utm_source=tuicool&utm_medium=referral  
+
+Pwning CCTV cameras
+https://www.pentestpartners.com/security-blog/pwning-cctv-cameras/  
+
+说说无线路由器后门的那些事儿（1）-Dlink篇
+http://www.freebuf.com/articles/wireless/18810.html  
+
+REVERSING AND EXPLOITING BLE 4.0 COMMUNICATION
+http://payatu.com/reversing-exploiting-ble-4-0-communication/  
+
+IoT设备程序开发及编译环境搭建初体验
+http://www.freebuf.com/sectool/130091.html  
+
+DLink路由器固件的一次分析记录
+http://bbs.pediy.com/thread-209773.htm  
+
+黑入Virgin Media Super Hub
+http://bobao.360.cn/learning/detail/4048.html  
+
+海康威视网络摄像机远程访问发现XXE漏洞
+http://www.2cto.com/article/201610/553158.html  
+
+An easy way to pwn most of the vivotek network cameras
+https://blog.cal1.cn/post/An%20easy%20way%20to%20pwn%20most%20of%20the%20vivotek%20network%20cameras  
 
 
