@@ -70,4 +70,7 @@ http://www.2cto.com/article/201610/553158.html
 An easy way to pwn most of the vivotek network cameras
 https://blog.cal1.cn/post/An%20easy%20way%20to%20pwn%20most%20of%20the%20vivotek%20network%20cameras  
 
+TP-Link WR841N路由器任意代码执行漏洞分析
+http://bobao.360.cn/learning/detail/4008.html  
+
 
