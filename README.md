@@ -76,4 +76,7 @@ https://blog.cal1.cn/post/An%20easy%20way%20to%20pwn%20most%20of%20the%20vivotek
 TP-Link WR841N路由器任意代码执行漏洞分析
 http://bobao.360.cn/learning/detail/4008.html  
 
+如何攻击 IP 摄像头并搭建分析环境？
+http://www.tuicool.com/articles/qM7rMnb  
+
 
