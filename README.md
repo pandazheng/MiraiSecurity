@@ -79,4 +79,10 @@ http://bobao.360.cn/learning/detail/4008.html
 如何攻击 IP 摄像头并搭建分析环境？
 http://www.tuicool.com/articles/qM7rMnb  
 
+【技术分享】物联网设备安全分析之网络摄像头篇
+http://bobao.360.cn/learning/detail/3269.html  
+
+【技术分享】智能家居设备安全分析手记
+http://bobao.360.cn/learning/detail/3270.html  
+
 
