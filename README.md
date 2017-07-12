@@ -94,5 +94,8 @@ http://www.freebuf.com/articles/terminal/117437.html
 解密“智魁”攻击行动——针对路由器蠕虫攻击事件分析报告 
 https://security.alibaba.com/blog/blog.htm?spm=0.0.0.0.mO6T6P&id=26   
 
+国外黑客发现的海康威视远程系统XXE漏洞分析
+http://www.freebuf.com/vuls/116613.html  
+
 
 
