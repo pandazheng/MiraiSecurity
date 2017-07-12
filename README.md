@@ -85,4 +85,7 @@ http://bobao.360.cn/learning/detail/3269.html
 【技术分享】智能家居设备安全分析手记
 http://bobao.360.cn/learning/detail/3270.html  
 
+Collection of modifications for the XiaoFang WiFi Camera
+https://github.com/samtap/fang-hacks  
+
 
