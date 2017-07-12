@@ -97,5 +97,11 @@ https://security.alibaba.com/blog/blog.htm?spm=0.0.0.0.mO6T6P&id=26
 国外黑客发现的海康威视远程系统XXE漏洞分析
 http://www.freebuf.com/vuls/116613.html  
 
+大量浙江大华监控设备弱口令漏洞  
+http://bbs.pediy.com/thread-201337.htm  
+
+大华摄像机存在安全漏洞：黑客可远程监控你的摄像头
+http://bobao.360.cn/news/detail/1388.html  
+
 
 
