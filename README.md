@@ -88,4 +88,11 @@ http://bobao.360.cn/learning/detail/3270.html
 Collection of modifications for the XiaoFang WiFi Camera
 https://github.com/samtap/fang-hacks  
 
+分析感染华硕路由器的P2P僵尸网络程序TheMoon
+http://www.freebuf.com/articles/terminal/117437.html  
+
+解密“智魁”攻击行动——针对路由器蠕虫攻击事件分析报告 
+https://security.alibaba.com/blog/blog.htm?spm=0.0.0.0.mO6T6P&id=26   
+
+
 
