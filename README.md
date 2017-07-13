@@ -103,5 +103,8 @@ http://bbs.pediy.com/thread-201337.htm
 大华摄像机存在安全漏洞：黑客可远程监控你的摄像头
 http://bobao.360.cn/news/detail/1388.html  
 
+黑客的日常：Hacking网络摄像头（Part1） 
+http://www.freebuf.com/articles/wireless/81985.html  
+
 
 
