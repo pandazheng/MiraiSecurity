@@ -106,5 +106,9 @@ http://bobao.360.cn/news/detail/1388.html
 黑客的日常：Hacking网络摄像头（Part1） 
 http://www.freebuf.com/articles/wireless/81985.html  
 
+Burglar and Hacker – When Physical Security Is Compromised by IoT Vulnerabilities  
+http://dojo.bullguard.com/blog/burglar-hacker-when-a-physical-security-is-compromised-by-iot-vulnerabilities/  
+
+
 
 
