@@ -109,6 +109,7 @@ http://www.freebuf.com/articles/wireless/81985.html
 Burglar and Hacker – When Physical Security Is Compromised by IoT Vulnerabilities  
 http://dojo.bullguard.com/blog/burglar-hacker-when-a-physical-security-is-compromised-by-iot-vulnerabilities/  
 
-
+Exploit Cameras
+https://www.lynahex.com/index.php/archives/exploit-cameras.html
 
 
