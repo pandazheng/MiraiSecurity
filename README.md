@@ -121,4 +121,7 @@ http://grangeia.io/2015/11/09/hacking-tomtom-runner-pt1/
 安防IP Camera固件分析  
 https://superkieran.github.io/WooyunDrops/#!/drops/329.%E5%AE%89%E9%98%B2IP%20Camera%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90  
 
+Devil's Ivy: The Technical Details
+http://blog.senr.io/devilsivy.html  
+
 
