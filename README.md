@@ -124,4 +124,7 @@ https://superkieran.github.io/WooyunDrops/#!/drops/329.%E5%AE%89%E9%98%B2IP%20Ca
 Devil's Ivy: The Technical Details
 http://blog.senr.io/devilsivy.html  
 
+Hacking the D-Link DIR-890L  
+http://www.devttys0.com/2015/04/hacking-the-d-link-dir-890l/  
+
 
