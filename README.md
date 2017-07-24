@@ -27,6 +27,9 @@ https://superkieran.github.io/WooyunDrops/#!/drops/1138.Remaiten-%E4%B8%80%E4%B8
 
 https://www.pnfsoftware.com/blog/automatic-identification-of-mirai-original-code/  
 
+New IoT/Linux Malware Targets DVRs, Forms Botnet  
+https://researchcenter.paloaltonetworks.com/2017/04/unit42-new-iotlinux-malware-targets-dvrs-forms-botnet/  
+
 
 
 # Honeypot
@@ -129,6 +132,9 @@ http://www.devttys0.com/2015/04/hacking-the-d-link-dir-890l/
 
 Samsung SmartCam​
 https://www.exploitee.rs/index.php/Samsung_SmartCam%E2%80%8B   
+
+Exploiting IoT enabled BLE smart bulb security  
+https://www.peerlyst.com/posts/exploiting-iot-enabled-ble-smart-bulb-security-aditya-gupta  
 
 
 
