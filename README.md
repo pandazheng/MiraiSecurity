@@ -127,4 +127,8 @@ http://blog.senr.io/devilsivy.html
 Hacking the D-Link DIR-890L  
 http://www.devttys0.com/2015/04/hacking-the-d-link-dir-890l/  
 
+Samsung SmartCam​
+https://www.exploitee.rs/index.php/Samsung_SmartCam%E2%80%8B   
+
+
 
