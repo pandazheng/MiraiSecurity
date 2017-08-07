@@ -136,5 +136,8 @@ https://www.exploitee.rs/index.php/Samsung_SmartCam%E2%80%8B
 Exploiting IoT enabled BLE smart bulb security  
 https://www.peerlyst.com/posts/exploiting-iot-enabled-ble-smart-bulb-security-aditya-gupta  
 
+使用Zoomeye渗透网络摄像头  
+http://simeon.blog.51cto.com/18680/1744228  
+
 
 
