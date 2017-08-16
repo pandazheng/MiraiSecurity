@@ -139,5 +139,8 @@ https://www.peerlyst.com/posts/exploiting-iot-enabled-ble-smart-bulb-security-ad
 使用Zoomeye渗透网络摄像头  
 http://simeon.blog.51cto.com/18680/1744228  
 
+REVERSE ENGINEERING A BLE SERVICE TO CONTROL A LIGHT BULB
+https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/  
+
 
 
