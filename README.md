@@ -121,7 +121,7 @@ https://superkieran.github.io/WooyunDrops/#!/drops/1042.%E6%9F%90CCTV%E6%91%84%E
 Hacking Smartwatches - the TomTom Runner, part 1
 http://grangeia.io/2015/11/09/hacking-tomtom-runner-pt1/   
 
-安防IP Camera固件分析  
+IP Camera固件分析  
 https://superkieran.github.io/WooyunDrops/#!/drops/329.%E5%AE%89%E9%98%B2IP%20Camera%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90  
 
 Devil's Ivy: The Technical Details
@@ -142,5 +142,7 @@ http://simeon.blog.51cto.com/18680/1744228
 REVERSE ENGINEERING A BLE SERVICE TO CONTROL A LIGHT BULB
 https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/  
 
+利用Hackrf进行GPS劫持实验流程攻略
+http://www.freebuf.com/articles/terminal/144296.html  
 
 
