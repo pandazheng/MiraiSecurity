@@ -145,4 +145,6 @@ https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/
 利用Hackrf进行GPS劫持实验流程攻略
 http://www.freebuf.com/articles/terminal/144296.html  
 
+Multiple vulnerabilities found in Wireless IP Camera (P2P) WIFICAM cameras and vulnerabilities in custom http server  
+https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html  
 
