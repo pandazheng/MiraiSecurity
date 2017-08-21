@@ -148,3 +148,6 @@ http://www.freebuf.com/articles/terminal/144296.html
 Multiple vulnerabilities found in Wireless IP Camera (P2P) WIFICAM cameras and vulnerabilities in custom http server  
 https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html  
 
+逆向工程家庭安全系统：解码固件更新
+https://markclayton.github.io/reverse-engineering-my-home-security-system-decompiling-firmware-updates.html  
+
