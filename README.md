@@ -151,3 +151,17 @@ https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html
 逆向工程家庭安全系统：解码固件更新
 https://markclayton.github.io/reverse-engineering-my-home-security-system-decompiling-firmware-updates.html  
 
+FIRMWARE EXPLOITATION WITH JEB: PART 1    
+https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-1/  
+
+Getting Started with Damn Vulnerable Router Firmware (DVRF) v0.1  
+https://p16.praetorian.com/blog/getting-started-with-damn-vulnerable-router-firmware-dvrf-v0.1  
+https://github.com/praetorian-inc/DVRF  
+
+重温SOHO路由器攻击（针对多款路由器的漏洞挖掘）  
+http://www.sicherheitsforschung-magdeburg.de/uploads/journal/MJS_054_Rueda_SOHORouter.pdf
+
+D-Link-Dir-850L-远程命令执行漏洞  
+https://xianzhi.aliyun.com/forum/read/2010.html  
+
+
