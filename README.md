@@ -164,4 +164,76 @@ http://www.sicherheitsforschung-magdeburg.de/uploads/journal/MJS_054_Rueda_SOHOR
 D-Link-Dir-850L-远程命令执行漏洞  
 https://xianzhi.aliyun.com/forum/read/2010.html  
 
+TEW-654TR路由器漏洞分析和挖掘  
+http://www.freebuf.com/vuls/126766.html  
+
+从内网弱口令到公网智能路由器  
+http://www.freebuf.com/vuls/125271.html  
+
+对某路由器进行的渗透测试   
+http://www.freebuf.com/articles/terminal/124069.html  
+
+D-Link路由器固件后门，导致内网域名劫持  
+http://www.freebuf.com/articles/terminal/113487.html  
+
+极客Hacking：手把手教你Root谷歌OnHub路由器  
+http://www.freebuf.com/news/topnews/82147.html  
+
+RouterSploit：路由器漏洞检测及利用框架  
+http://www.freebuf.com/sectool/101441.html  
+
+工具推荐：Scanner Routerhunter，路由器漏洞扫描器  
+http://www.freebuf.com/sectool/101180.html  
+
+技术分享：逆向破解华为路由器  
+http://www.freebuf.com/news/topnews/101852.html  
+http://www.freebuf.com/geek/103551.html  
+http://www.freebuf.com/geek/105617.html  
+
+路由器固件安全分析技术  
+https://www.vulbox.com/knowledge/detail/?id=35  
+https://www.vulbox.com/knowledge/detail/?id=42  
+
+必虎路由器大量高危漏洞分析  
+http://www.freebuf.com/news/112626.html  
+
+逆向路由器固件之解包 Part1  
+http://www.freebuf.com/sectool/75915.html  
+
+逆向路由器固件之敏感信息泄露 Part2  
+http://www.freebuf.com/articles/terminal/76481.html  
+
+逆向路由器固件之SQL注入（Part3）  
+http://www.freebuf.com/vuls/76755.html  
+
+路由器驱动组件NetUSB（CVE-2015-3036 ）远程代码执行exp  
+http://www.freebuf.com/vuls/81773.html  
+
+华为Wimax路由器被爆存在多个漏洞  
+http://www.freebuf.com/articles/terminal/87957.html   
+
+针对路由器的MIPS架构Linux木马详解  
+http://www.freebuf.com/articles/network/88798.html  
+
+中兴路由器（SOHO Router）暗藏后门  
+http://www.freebuf.com/news/58137.html  
+
+TP-link TL-WR840N系列路由器存在CSRF漏洞，可修改任意配置（含POC测试过程）  
+http://www.freebuf.com/vuls/56526.html  
+
+华硕路由器曝远程命令执行漏洞  
+http://www.freebuf.com/news/56074.html  
+
+国外路由器密码扫描工具  
+http://www.freebuf.com/sectool/31680.html#  
+
+说说无线路由器后门的那些事儿（1）-Dlink篇  
+http://www.freebuf.com/articles/wireless/18810.html  
+
+NetGear路由器可以通过命令注入获取ROOT权限[附EXP]  
+http://www.freebuf.com/articles/wireless/15641.html  
+
+我是如何反编译D-Link路由器固件程序并发现它的后门的  
+http://www.freebuf.com/articles/wireless/14964.html  
+
 
