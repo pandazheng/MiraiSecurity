@@ -154,6 +154,9 @@ https://markclayton.github.io/reverse-engineering-my-home-security-system-decomp
 FIRMWARE EXPLOITATION WITH JEB: PART 1    
 https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-1/  
 
+FIRMWARE EXPLOITATION WITH JEB: PART 2
+https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-2/ 
+
 Getting Started with Damn Vulnerable Router Firmware (DVRF) v0.1  
 https://p16.praetorian.com/blog/getting-started-with-damn-vulnerable-router-firmware-dvrf-v0.1  
 https://github.com/praetorian-inc/DVRF  
