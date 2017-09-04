@@ -239,4 +239,7 @@ http://www.freebuf.com/articles/wireless/15641.html
 我是如何反编译D-Link路由器固件程序并发现它的后门的  
 http://www.freebuf.com/articles/wireless/14964.html  
 
+知道工具之硬件路由相关  
+https://mp.weixin.qq.com/s/QdiI66ZDsHj7MaMB6c88Ug  
+
 
