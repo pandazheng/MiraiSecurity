@@ -32,7 +32,13 @@ https://researchcenter.paloaltonetworks.com/2017/04/unit42-new-iotlinux-malware-
 
 
 # DNS Server 配置学习
-http://www.imooc.com/learn/634
+http://www.imooc.com/learn/634   
+
+http://blog.csdn.net/bluecy/article/details/44907215  
+https://www.youtube.com/watch?v=riGz7gBXCKc  
+https://www.youtube.com/watch?v=pAJNB1d3DzE  
+https://www.youtube.com/watch?v=DuVNclBfykw  
+
 
 
 # Honeypot
