@@ -254,4 +254,7 @@ https://mp.weixin.qq.com/s/QdiI66ZDsHj7MaMB6c88Ug
 专门收集各大信息安全会议资料的网站  
 https://infocon.org/cons/  
 
+Reverse Engineering & Exploitation of a “Connected Alarm Clock”  
+https://courk.fr/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/  
+
 
