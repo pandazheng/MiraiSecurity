@@ -257,4 +257,11 @@ https://infocon.org/cons/
 Reverse Engineering & Exploitation of a “Connected Alarm Clock”  
 https://courk.fr/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/  
 
+我是怎么打开车库门的：ASKOOK手动解码及重放  
+http://www.freebuf.com/articles/wireless/146781.html  
+
+IOT SECURITY – PART 1 (101 – IOT INTRODUCTION AND ARCHITECTURE)  
+http://payatu.com/iot-security-part-1-101-iot-introduction-architecture/  
+http://payatu.com/iot-security-part-2-101-iot-attack-surface/  
+
 
