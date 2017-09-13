@@ -269,4 +269,8 @@ https://quequero.org/2017/07/arm-exploitation-iot-episode-1/
 ARM exploitation for IoT – Episode 2  
 https://quequero.org/2017/09/arm-exploitation-iot-episode-2/  
 
+Reverse Engineering the OBi200 Google Voice Appliance  
+https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-1/  
+https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-2/
+
 
