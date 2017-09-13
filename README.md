@@ -264,4 +264,9 @@ IOT SECURITY – PART 1 (101 – IOT INTRODUCTION AND ARCHITECTURE)
 http://payatu.com/iot-security-part-1-101-iot-introduction-architecture/  
 http://payatu.com/iot-security-part-2-101-iot-attack-surface/  
 
+ARM exploitation for IoT – Episode 1  
+https://quequero.org/2017/07/arm-exploitation-iot-episode-1/  
+ARM exploitation for IoT – Episode 2  
+https://quequero.org/2017/09/arm-exploitation-iot-episode-2/  
+
 
