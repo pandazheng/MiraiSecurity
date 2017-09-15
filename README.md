@@ -273,4 +273,7 @@ Reverse Engineering the OBi200 Google Voice Appliance
 https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-1/  
 https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-2/
 
+Enlarge your botnet with: top D-Link routers (DIR8xx D-Link routers cruisin' for a bruisin')
+https://embedi.com/blog/enlarge-your-botnet-top-d-link-routers-dir8xx-d-link-routers-cruisin-bruisin  
+
 
