@@ -276,4 +276,5 @@ https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-pa
 Enlarge your botnet with: top D-Link routers (DIR8xx D-Link routers cruisin' for a bruisin')
 https://embedi.com/blog/enlarge-your-botnet-top-d-link-routers-dir8xx-d-link-routers-cruisin-bruisin  
 
-
+Exploiting Embedded Systems – Part 1  
+http://www.devttys0.com/2011/09/exploiting-embedded-systems-part-1/
