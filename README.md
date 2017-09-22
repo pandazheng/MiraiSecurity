@@ -278,3 +278,7 @@ https://embedi.com/blog/enlarge-your-botnet-top-d-link-routers-dir8xx-d-link-rou
 
 Exploiting Embedded Systems – Part 1  
 http://www.devttys0.com/2011/09/exploiting-embedded-systems-part-1/
+
+针对联网智能灯泡的安全性分析  
+https://www.contextis.com/blog/hacking-into-internet-connected-light-bulbs   
+
