@@ -282,3 +282,7 @@ http://www.devttys0.com/2011/09/exploiting-embedded-systems-part-1/
 针对联网智能灯泡的安全性分析  
 https://www.contextis.com/blog/hacking-into-internet-connected-light-bulbs   
 
+看我如何一步一步发现TP-Link路由器的远程代码执行(CVE-2017-13772)  
+https://www.fidusinfosec.com/tp-link-remote-code-execution-cve-2017-13772/  
+
+
