@@ -285,4 +285,8 @@ https://www.contextis.com/blog/hacking-into-internet-connected-light-bulbs
 看我如何一步一步发现TP-Link路由器的远程代码执行(CVE-2017-13772)  
 https://www.fidusinfosec.com/tp-link-remote-code-execution-cve-2017-13772/  
 
+ZTE ZXR10 路由器多个安全漏洞披露  
+https://blogs.securiteam.com/index.php/archives/3495  
+
+
 
