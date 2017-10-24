@@ -39,7 +39,8 @@ https://www.youtube.com/watch?v=riGz7gBXCKc
 https://www.youtube.com/watch?v=pAJNB1d3DzE  
 https://www.youtube.com/watch?v=DuVNclBfykw  
 
-
+# 物联网创业公司
+http://www.freebuf.com/news/119139.html  
 
 # Honeypot
 www.nothink.org  
