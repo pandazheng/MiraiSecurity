@@ -49,7 +49,12 @@ http://www.iexplo1t.com/2016/05/Honeypot.html
 
 https://github.com/paralax/awesome-honeypots
 
-https://check-host.net  
+https://check-host.net 
+
+
+# 虚拟机安装
+https://app.vagrantup.com/boxes/search  
+
 
 
 # 固件分析相关文章
