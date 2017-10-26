@@ -55,6 +55,8 @@ https://check-host.net
 # 虚拟机安装
 https://app.vagrantup.com/boxes/search  
 
+# 交叉编译虚拟机
+http://kozos.jp/vmimage/burning-asm.html  
 
 
 # 固件分析相关文章
