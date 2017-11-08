@@ -300,4 +300,5 @@ https://blogs.securiteam.com/index.php/archives/3495
 http://bobao.360.cn/learning/detail/4614.html  
 
 
-
+ARM exploits
+https://quequero.org/2017/07/arm-exploitation-iot-episode-1/
