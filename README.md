@@ -51,6 +51,11 @@ https://github.com/paralax/awesome-honeypots
 
 https://check-host.net 
 
+# ARM Exploit Development  
+https://azeria-labs.com/writing-arm-shellcode/  
+https://azeria-labs.com/process-memory-and-memory-corruption/  
+https://azeria-labs.com/part-3-stack-overflow-challenges/  
+
 
 # 虚拟机安装
 https://app.vagrantup.com/boxes/search  
