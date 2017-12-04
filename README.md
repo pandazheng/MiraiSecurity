@@ -311,4 +311,7 @@ https://quequero.org/2017/07/arm-exploitation-iot-episode-1/
 NBotLoader: Netgear Bug Weaponized as a Dangerous Exploit  
 https://blog.newskysecurity.com/nbotloader-netgear-bug-weaponized-as-a-dangerous-exploit-ea7869217e89  
 
+如何利用Shodan API和Python自动扫描高危设备  
+http://www.4hou.com/web/8803.html  
+
 
