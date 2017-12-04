@@ -306,4 +306,9 @@ http://bobao.360.cn/learning/detail/4614.html
 
 
 ARM exploits
-https://quequero.org/2017/07/arm-exploitation-iot-episode-1/
+https://quequero.org/2017/07/arm-exploitation-iot-episode-1/  
+
+NBotLoader: Netgear Bug Weaponized as a Dangerous Exploit  
+https://blog.newskysecurity.com/nbotloader-netgear-bug-weaponized-as-a-dangerous-exploit-ea7869217e89  
+
+
