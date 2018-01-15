@@ -30,6 +30,9 @@ https://www.pnfsoftware.com/blog/automatic-identification-of-mirai-original-code
 New IoT/Linux Malware Targets DVRs, Forms Botnet  
 https://researchcenter.paloaltonetworks.com/2017/04/unit42-new-iotlinux-malware-targets-dvrs-forms-botnet/  
 
+http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html  
+
+
 
 # DNS Server 配置学习
 http://www.imooc.com/learn/634   
