@@ -326,3 +326,6 @@ https://smartlockpicking.com/hackmelock/
 BLE安全初探之HACKMELOCK  
 https://larry.ngrep.me/2018/11/24/ble-sec-hackmelock/  
 
+IoT 分析 | 路由器漏洞频发，Mirai 新变种来袭
+https://www.anquanke.com/post/id/166645  
+
