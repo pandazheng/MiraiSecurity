@@ -335,3 +335,9 @@ https://www.anquanke.com/post/id/164230
 路由器漏洞分析集合（PAGalaxyLab ）  
 https://github.com/PAGalaxyLab/VulInfo  
 
+物联网安全学习笔记之一——MIPS汇编语言基础  
+https://www.anquanke.com/post/id/162992  
+物联网安全学习笔记之二——小试牛刀  
+https://www.anquanke.com/post/id/166821  
+
+
