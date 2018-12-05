@@ -343,4 +343,9 @@ https://www.anquanke.com/post/id/166821
 UPnP下的匿名IoT僵尸网络  
 https://www.anquanke.com/post/id/167058  
 
+白话物联网安全（一）：什么是物联网的信息安全  
+https://www.freebuf.com/column/191098.html  
+
+白话物联网安全（二）：物联网的安全检测  
+https://www.freebuf.com/articles/wireless/191065.html  
 
