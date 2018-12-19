@@ -356,3 +356,6 @@ https://www.freebuf.com/articles/wireless/192086.html
 智能锁具攻防 一：初探  
 https://mp.weixin.qq.com/s/LrAQoApOrEdcrJh6BaMOaw  
 
+Linux.Omni IoT恶意软件分析  
+https://www.freebuf.com/articles/ics-articles/192066.html  
+
