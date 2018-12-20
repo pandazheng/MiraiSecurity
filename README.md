@@ -359,3 +359,8 @@ https://mp.weixin.qq.com/s/LrAQoApOrEdcrJh6BaMOaw
 Linux.Omni IoT恶意软件分析  
 https://www.freebuf.com/articles/ics-articles/192066.html  
 
+
+低功耗蓝牙攻击实用指南
+https://www.anquanke.com/post/id/168116  
+
+
