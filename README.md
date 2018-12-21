@@ -360,7 +360,10 @@ Linux.Omni IoT恶意软件分析
 https://www.freebuf.com/articles/ics-articles/192066.html  
 
 
-低功耗蓝牙攻击实用指南
+低功耗蓝牙攻击实用指南  
 https://www.anquanke.com/post/id/168116  
+
+基于VxWorks的嵌入式设备固件分析方法介绍  
+https://mp.weixin.qq.com/s/lDZWjgAoJmD141ppd8DjgA  
 
 
