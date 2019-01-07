@@ -32,6 +32,7 @@ https://researchcenter.paloaltonetworks.com/2017/04/unit42-new-iotlinux-malware-
 
 http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html  
 
+https://mirai.badpackets.net/  
 
 
 # DNS Server 配置学习
