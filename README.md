@@ -367,4 +367,6 @@ https://www.anquanke.com/post/id/168116
 基于VxWorks的嵌入式设备固件分析方法介绍  
 https://mp.weixin.qq.com/s/lDZWjgAoJmD141ppd8DjgA  
 
+TP-Link TL-R600VPN远程代码执行漏洞分析  
+https://www.anquanke.com/post/id/169793  
 
