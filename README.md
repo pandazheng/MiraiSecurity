@@ -370,3 +370,6 @@ https://mp.weixin.qq.com/s/lDZWjgAoJmD141ppd8DjgA
 TP-Link TL-R600VPN远程代码执行漏洞分析  
 https://www.anquanke.com/post/id/169793  
 
+挖洞经验丨看我如何挖到多个D-LINK高危漏洞
+https://www.freebuf.com/vuls/195309.html  
+
