@@ -376,3 +376,7 @@ https://www.freebuf.com/vuls/195309.html
 智能摄像头安全分析及案例参考  
 https://www.freebuf.com/articles/terminal/203311.html  
 
+Reversing Firmware- How does that work?
+http://1585security.com/Firmware-Reversing-1/
+
+
