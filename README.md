@@ -379,4 +379,5 @@ https://www.freebuf.com/articles/terminal/203311.html
 Reversing Firmware- How does that work?  
 http://1585security.com/Firmware-Reversing-1/
 
-
+对tenda(V15.03.06.42_mips)进行getshell
+https://www.anquanke.com/post/id/254426
