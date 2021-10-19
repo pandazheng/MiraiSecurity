@@ -381,3 +381,12 @@ http://1585security.com/Firmware-Reversing-1/
 
 对tenda(V15.03.06.42_mips)进行getshell
 https://www.anquanke.com/post/id/254426
+
+黑客们的夏天——IoT Dev Hacking Vol.1
+https://www.anquanke.com/post/id/249643
+
+黑客们的夏天 —— IoT Dev Hacking Vol.2
+https://www.anquanke.com/post/id/254253
+
+黑客们的夏天—IoT环境下IP Cam快速入侵思路
+https://www.anquanke.com/post/id/247453
